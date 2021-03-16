@@ -1,11 +1,11 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<body style="background-color:background-color:background-color: #c7e9fb;
-background-image: linear-gradient(315deg, #c7e9fb 0%, #e61d8c 74%);
+<body style="background-color:background-color: #96c8fb;
+background-image: linear-gradient(315deg, #96c8fb 0%, #ddbdfc 74%);;">
 
-
-<h1>Hello!Welcome to my Website</h1>
-<p>Please Press The Start Button</p>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
+
