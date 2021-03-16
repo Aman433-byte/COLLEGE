@@ -12,8 +12,6 @@ background-image: linear-gradient(315deg, #96c8fb 0%, #ddbdfc 74%);;">
 Powered & Developed by MIAH MOHAMMED AMAN
  
 
-<!DOCTYPE html> 
-
 <html lang="en" dir="ltr"> 
 
   
@@ -74,7 +72,7 @@ Powered & Developed by MIAH MOHAMMED AMAN
 
             text-decoration: none; 
 
-            font-size: 3em; 
+            font-size: 0.5em; 
 
             overflow: hidden; 
 
@@ -102,7 +100,7 @@ Powered & Developed by MIAH MOHAMMED AMAN
 
 <body> 
 
-    <a>GeeksForGeeks</a> 
+    <a>START</a> 
 
 </body> 
 
